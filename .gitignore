@@ -30,3 +30,15 @@ hs_err_pid*
 .settings
 target/*
 target
+
+*mvn*
+.idea/
+*.iml
+/*.classpath
+/.classpath
+/.springBeans
+*.DS_Store
+*.iml
+/build
+/local.properties
+target/
